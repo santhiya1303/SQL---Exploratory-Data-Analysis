@@ -14,8 +14,8 @@ The dataset was first **cleaned** in a separate *Data Cleaning Project*, and the
 
 
 ## 📂 Dataset Information
-- **Input Dataset:** `layoffs_cleaned.csv`  
-- **Output Results:** `EDA_Results.xlsx` 
+- **Input Dataset:** `Layoffs_cleaned.csv`  
+- **Output Results:** `Layoffs_EDA.xlsx` 
 
 **Columns in dataset:**
 - `company` → Company name  
@@ -51,7 +51,7 @@ The dataset was first **cleaned** in a separate *Data Cleaning Project*, and the
 
 
 ## 📑 Results
-- **Full results** are saved in [`Layoffs_EDA.xlsx`](EDA_Results.xlsx) with multiple sheets.  
+- **Full results** are saved in [`Layoffs_EDA.xlsx`]  
 
 Highlights:
 - 📈 **Tech and Finance** industries were among the hardest hit.  
